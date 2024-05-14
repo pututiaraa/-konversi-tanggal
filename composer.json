@@ -1,0 +1,17 @@
+{
+    "name": "nipututiara/konversi-tanggal",
+    "description": "Fungsi untuk mengkonversi bulan dalam bahasa indonesia",
+    "type": "laravel-package",
+    "autoload": {
+        "psr-4": {
+            "Nipututiara\\KonversiTanggal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pututiaraa",
+            "email": "niputu222222@gmail.com"
+        }
+    ],
+    "require": {}
+}
